@@ -1,0 +1,5 @@
+D:\EMoneyTask\Prime\Prime.Logging\bin\Debug\Prime.Logging.dll
+D:\EMoneyTask\Prime\Prime.Logging\bin\Debug\Prime.Logging.pdb
+D:\EMoneyTask\Prime\Prime.Logging\obj\Debug\Prime.Logging.csprojResolveAssemblyReference.cache
+D:\EMoneyTask\Prime\Prime.Logging\obj\Debug\Prime.Logging.dll
+D:\EMoneyTask\Prime\Prime.Logging\obj\Debug\Prime.Logging.pdb

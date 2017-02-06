@@ -1,0 +1,8 @@
+D:\EMoneyTask\Prime\Prime.Generation.Tests\bin\Debug\Prime.Generation.Tests.dll
+D:\EMoneyTask\Prime\Prime.Generation.Tests\bin\Debug\Prime.Generation.Tests.pdb
+D:\EMoneyTask\Prime\Prime.Generation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\EMoneyTask\Prime\Prime.Generation.Tests\bin\Debug\Prime.Generation.dll
+D:\EMoneyTask\Prime\Prime.Generation.Tests\bin\Debug\Prime.Generation.pdb
+D:\EMoneyTask\Prime\Prime.Generation.Tests\obj\Debug\Prime.Generation.Tests.csprojResolveAssemblyReference.cache
+D:\EMoneyTask\Prime\Prime.Generation.Tests\obj\Debug\Prime.Generation.Tests.dll
+D:\EMoneyTask\Prime\Prime.Generation.Tests\obj\Debug\Prime.Generation.Tests.pdb

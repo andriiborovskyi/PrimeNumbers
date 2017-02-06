@@ -1,0 +1,7 @@
+D:\EMoneyTask\Prime\Prime.ResourceMonitorConsole\bin\Debug\Prime.ResourceMonitorConsole.exe.config
+D:\EMoneyTask\Prime\Prime.ResourceMonitorConsole\bin\Debug\Prime.ResourceMonitorConsole.exe
+D:\EMoneyTask\Prime\Prime.ResourceMonitorConsole\bin\Debug\Prime.ResourceMonitorConsole.pdb
+D:\EMoneyTask\Prime\Prime.ResourceMonitorConsole\bin\Debug\TraceEvent.dll
+D:\EMoneyTask\Prime\Prime.ResourceMonitorConsole\obj\Debug\Prime.ResourceMonitorConsole.csprojResolveAssemblyReference.cache
+D:\EMoneyTask\Prime\Prime.ResourceMonitorConsole\obj\Debug\Prime.ResourceMonitorConsole.exe
+D:\EMoneyTask\Prime\Prime.ResourceMonitorConsole\obj\Debug\Prime.ResourceMonitorConsole.pdb

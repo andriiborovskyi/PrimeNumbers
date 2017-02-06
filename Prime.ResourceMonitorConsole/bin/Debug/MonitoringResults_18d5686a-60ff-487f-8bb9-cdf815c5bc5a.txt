@@ -1,0 +1,26 @@
+Starting Listening for events
+[10:04:18 AM] CPU 0% RAM 343597383680
+Started GeneretePrime - SieveOfEratosthenes [10:04:18 AM]
+[10:04:18 AM] CPU 0% RAM 343597383680
+Completed GeneretePrime - SieveOfEratosthenes [10:04:18 AM]
+   > Execution time = 11.996 MSec
+[10:04:18 AM] CPU 0% RAM 343597383680
+[10:04:27 AM] CPU 0% RAM 343597383680
+Started GeneretePrime - Static [10:04:27 AM]
+[10:04:27 AM] CPU 0% RAM 343597383680
+Completed GeneretePrime - Static [10:04:28 AM]
+   > Execution time = 20.042 MSec
+[10:04:28 AM] CPU 0% RAM 343597383680
+[10:04:30 AM] CPU 0% RAM 343597383680
+Started GeneretePrimeParaller - [10:04:30 AM]
+[10:04:30 AM] CPU 0% RAM 353307721728
+[10:04:30 AM] CPU 0% RAM 353299647200
+[10:04:30 AM] CPU 0% RAM 353307721728
+[10:04:30 AM] CPU 0% RAM 353307721728
+Completed GeneretePrimeParallel - [10:04:30 AM]
+   > Execution time = 72.279 MSec
+[10:04:30 AM] CPU 0% RAM 349012754432
+[10:04:30 AM] CPU 0% RAM 352187318272
+[10:04:30 AM] CPU 0% RAM 352187318272
+
+Stopping the collection of events.

@@ -1,0 +1,18 @@
+﻿@model Prime.Models.MultipleResultsModel
+
+@{
+    ViewBag.Title = "PrimeNumbersParallel";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>PrimeNumbersParaller</h2>
+<div class="row">
+    <diw class="col-md-4">Sieve Of Eratosthenes Result</diw>
+    <diw class="col-md-4">Sqrt Result</diw>
+    <diw class="col-md-4">Static Result</diw>
+</div>
+<div class="row">
+    <diw class="col-md-4">@Html.Partial( "~/Views/Home/PrimeNumbers.cshtml", Model.SieveOfEratosthenesResult )</diw>
+    <diw class="col-md-4">@Html.Partial( "~/Views/Home/PrimeNumbers.cshtml", Model.SqrtResult )</diw>
+    <diw class="col-md-4">@Html.Partial( "~/Views/Home/PrimeNumbers.cshtml", Model.StaticResult )</diw>
+</div>
